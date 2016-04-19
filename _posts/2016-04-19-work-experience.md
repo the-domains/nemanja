@@ -6,25 +6,25 @@ inLanguage: null
 starred: false
 keywords: []
 description: Work Experience
-datePublished: '2016-04-19T20:51:41.536Z'
-dateModified: '2016-04-19T20:51:29.469Z'
+datePublished: '2016-04-19T21:03:32.015Z'
+dateModified: '2016-04-19T21:02:29.166Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-19-work-experience.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-19-work-experience.md
-published: true
 url: work-experience/index.html
 _type: Article
 
 ---
 Work Experience
 
-September 2013 -- Ongoing ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cfc8a98e-84d7-44ec-851b-9f7c61736451.png)
+September 2013 -- Ongoing 
 
 Raiffeisen Bank International, Vienna, Austria -- IT Delivery Risk Processing
 
@@ -36,7 +36,7 @@ Introduced Kanban in Operations for Risk Processing Team
 
 Application Manager / Business Analyst for Financial Institutions Rating System and Group Risk Monitoring/Forbearance System (CRS, DPD & Exposure Reporting)
 
-January 2013 -- September 2013 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2536067b-bb9f-46e2-830d-617b11f60b8c.png)
+January 2013 -- September 2013 
 
 Raiffeisen Bank International, Vienna, Austria -- IT Delivery Credit Risk Calc.
 
@@ -44,7 +44,7 @@ Application Manager for Central Group Data Warehouse (CDWH, Oracle-based), with 
 
 Daily Communication with 17 Subsidiaries on Data Quality Topics
 
-March 2010 -- August 2011 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/313e1db0-7a82-497d-a427-807ce77817f5.png)
+March 2010 -- August 2011 
 
 Komercijalna banka a.d. Belgrade, Serbia -- Retail Operations
 
@@ -52,7 +52,7 @@ Analysis of Housing Loans Applications & Proposals for Credit Committee
 
 Structuring of New Retail Banking Products
 
-April 2009 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5177bde2-e028-47ea-82a0-e7cdf325e889.png)
+April 2009 
 
 Komercijalna banka a.d. Belgrade, Serbia -- IT Department (Internship)
 
