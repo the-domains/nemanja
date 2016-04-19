@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Nemanja]]></title>
         <description><![CDATA[Nemanja]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nemanja/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Apr 2016 20:53:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Apr 2016 21:03:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nemanja/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Work Experience</p>]]></description>
-            <link>undefinedwork-experience/index.html</link>
+            <link>https://thegrid.ai/nemanja/work-experience/index.html</link>
             <guid isPermaLink="false">92cbb462-819a-4163-bfb6-dc337bb924e1</guid>
-            <pubDate>Tue, 19 Apr 2016 20:51:41 GMT</pubDate>
+            <pubDate>Tue, 19 Apr 2016 21:03:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
