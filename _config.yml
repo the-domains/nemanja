@@ -1,14 +1,28 @@
+name: Nemanja
+favicon: null
 layout_spectrum: 0.1893657
 typography_spectrum: 0.6996269
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4655283
-  lightness: 0.5288339
-  brandStrength: 0.544358
-  rhythmicContrast: 0.2582744
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-name: Nemanja
+    - '#1f1f1f'
+    - '#f10051'
+    - '#b0a6a8'
+    - '#d8e2dc'
+    - '#477789'
+  brandStrength: 0.544358
+  lightness: 0.5288339
+  saturation: 0.4655283
+  rhythmicContrast: 0.2582744
+purpose: []
